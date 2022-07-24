@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Poppins:ital,wght@0,400;1,700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    
+    font-family: 'Poppins', sans-serif;
+}
+.panda-bg-info{
+    background-color: #FEEAE9;
+}
+.catagires img{
+    width: 100px;
+}
+.bg-Watch{
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+}
+.bg-Bags{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+.bg-Shoes{
+    background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+}
+.slide-h{
+    font-size: 56px;
+    font-weight: 700;
+    list-style: 84px;
+}
+.slid-p{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+}
+.price{
+    font-size: 41px;
+    color: #FF136F;
+    font-weight: 800;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.buy-btn{
+    font-size: 16px;
+    font-weight: 500;
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    border: 2px solid #FF589B;
+    color: white;
+    border-radius: 5px;
+    font-family: 'Inter', sans-serif;
+    
+    transition: 0.5s;
+}
+.buy-btn:hover{
+    color: #FF589B;
+    border: 2px solid #FF589B;
+    background: #FEEAE9;
+}
+.more{
+    text-decoration: none;
+    color: #FF136F;
+    font-size: 16px;
+}
+.more:hover{
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+    transition: 0.5s;
+}
